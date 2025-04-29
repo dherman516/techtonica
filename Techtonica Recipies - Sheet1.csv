@@ -1,0 +1,658 @@
+Ouput,Machine,Ingredients,technology
+Accumulator (1x) 1/min,Assembler MKI,"Copper Frame (20x) 20/min 
+   Electrical Components (20x) 20/min 
+   Kindlevine_Extract (20x) 20/min",energy.Victor.T1. Accumulator
+Actuator (1x) 1/min,Assembler MKI,"Electric Motor (10x) 10/min 
+   Carbon Frame (72x) 72/min 
+   Iron Mechanism (24x) 24/min",science.Sierra.T1. Actuator
+Advanced Circuit (1x) 1/min,Crusher MKI,Relay Circuit (1x) 1/min,science.Sierra.T8. Relay Circuit Deconstruction
+Advanced Circuit (1x) 8/min,Assembler MKI,"Processor Unit (2x) 16/min 
+   Cooling System (2x) 16/min 
+   Atlantum Ingot (4x) 32/min",Victor.T4. Advanced Electronics
+Advanced Circuit (1x) 8/min,Assembler MKI,"Processor Unit (2x) 16/min 
+   Gold Ingot (1x) 8/min 
+   Atlantum Ingot (4x) 32/min",Sierra.T4. Advanced Circuit (Gold)
+Assembler (1x) 3.75/min,Assembler MKI,"Inserter (2x) 7.5/min 
+   Iron Frame (2x) 7.5/min",synthesis.Lima.T4. Assembler
+Assembler MKII (1x) 1/min,Assembler MKI,"Assembler (2x) 2/min 
+   Relay Circuit (2x) 2/min 
+   Electric Motor (2x) 2/min",synthesis.Victor.T4. Assembler MKII
+Atlantum Chunk (4x) 4/min,Assembler MKI,"Atlantum-Infused Limestone (9x) 9/min 
+   Kindlevine_Extract (6x) 6/min",terraforming.Xray.T5. Atlantum Infusion
+Atlantum Ingot (1x) 1/min,Smelter MKI,Atlantum Mixture (10x) 10/min,synthesis.Victor.T3. Atlantum Ingot
+Atlantum Ingot (1x) 1/min,Crusher MKI,Atlantum Slab (1x) 1/min,synthesis.Sierra.T4. Slab Processing (Rapid)
+Atlantum Ingot (1x) 1/min,Crusher MKI,"Sesamite Ingot (4x) 4/min 
+   Atlantum Powder (1x) 1/min",science.Sierra.T6. Sesamite Mutation
+Atlantum Mixture (1x) 1/min,Crusher MKI,"Atlantum Chunk (8x) 8/min 
+   Sesamite Crystal (10x) 10/min",terraforming.Sierra.T8. Atlantum Maxcrush
+Atlantum Mixture (1x) 7.5/min,Assembler MKI,"Atlantum Powder (2x) 15.0/min 
+   Kindlevine_Extract (2x) 15.0/min 
+   Shiverthorn Extract (2x) 15.0/min",synthesis.Victor.T3. Atlantum Mixture
+Atlantum Mixture Brick (1x) 3.75/min,Assembler MKI,"Atlantum Powder Brick (4x) 15.0/min 
+   Kindlevine Extract Brick (2x) 7.5/min 
+   Shiverthorn Extract Gel (4x) 15.0/min",terraforming.Xray.T5. Atlantum Powder Bricks
+"Atlantum Ore (4x) 27.0/min 
+   Limestone (6x) 40.5/min",Thresher MKI,Atlantum-Infused Limestone (1x) 6.75/min,terraforming.Xray.T5. Infused Atlantum Threshing
+"Atlantum Ore (4x) 27.0/min 
+   Limestone (6x) 40.5/min",Thresher MKI,Atlantum-Infused Limestone (1x) 6.75/min,terraforming.Xray.T5. Infused Atlantum Threshing
+Atlantum Powder (1x) 1/min,Crusher MKI,Atlantum-Infused Limestone (1x) 1/min,synthesis.Sierra.T8. Advanced Atlantum Processing (Infused)
+Atlantum Powder (1x) 30/min,Thresher MKI,Atlantum Ore (1x) 30/min,Victor.T3. Atlantum Ore Threshing
+"Atlantum Powder (25x) 25/min 
+   Clay (6x) 6/min",Thresher MKI,Atlantum Chunk (1x) 1/min,science.Xray.T2. Atlantum Threshing
+"Atlantum Powder (25x) 25/min 
+   Clay (6x) 6/min",Thresher MKI,Atlantum Chunk (1x) 1/min,science.Xray.T2. Atlantum Threshing
+Atlantum Powder Brick (1x) 2.5/min,Assembler MKI,Atlantum Powder (500x) 1250.0/min,terraforming.Xray.T5. Atlantum Powder Bricks
+Atlantum Slab (1x) 1/min,Blast smelter MKI,Atlantum Ingot (25x) 25/min,synthesis.Xray.T5. Advanced Forging
+Atlantum Slab (1x) 1/min,Blast smelter MKI,Atlantum Chunk (2x) 2/min,synthesis.Xray.T5. Atlantum Slab
+Atlantum Slab (1x) 1/min,Blast smelter MKI,Atlantum Mixture Brick (2x) 2/min,synthesis.Xray.T5. Atlantum Slab
+"Atlantum-Infused Limestone (1x) 1/min 
+   Gravel (1x) 1/min",Crusher MKI,"Atlantum Chunk (1x) 1/min 
+   Limestone Brick (1x) 1/min",synthesis.Sierra.T8. Mass Production (Atlantum-Infused Limestone)
+"Atlantum-Infused Limestone (1x) 1/min 
+   Gravel (1x) 1/min",Crusher MKI,"Atlantum Chunk (1x) 1/min 
+   Limestone Brick (1x) 1/min",synthesis.Sierra.T8. Mass Production (Atlantum-Infused Limestone)
+Atlantum-Infused Limestone (4x) 4/min,Assembler MKI,"Atlantum Powder (5x) 5/min 
+   Shiverthorn Extract (2x) 2/min 
+   Limestone (24x) 24/min",terraforming.Xray.T5. Atlantum Infusion
+B,,,
+Biobrick (10x) 5.0/min,Assembler MKI,"Plantmatter (30x) 15.0/min 
+   Limestone (60x) 30.0/min",synthesis.Victor.T2. Biobrick
+Biobrick (125x) 125/min,Assembler MKI,"Carbon Powder Brick (1x) 1/min 
+   Sesamite Gel (2x) 2/min",energy.Sierra.T1. Mass Production (Biobrick)
+"Biobrick Diesel (Pure) (12x) 12/min 
+   Biobrick Diesel (Impure) (14x) 14/min",Crusher MKI,Biobrick Diesel Infusion Pack (8x) 8/min,science.Sierra.T3. Sesamite Sand Filtration
+Biobrick Diesel (Unrefined) (1x) 1/min,Assembler MKI,"Biobrick (10x) 10/min 
+   Shiverthorn Coolant (4x) 4/min",science.Victor.T4. Biobrick Diesel
+"Biobrick Diesel (Unrefined) (1x) 1/min 
+   Shiverthorn Coolant (1x) 1/min",Crusher MKI,Biobrick Diesel (Impure) (14x) 14/min,science.Sierra.T4. Biobrick Diesel Recycling
+"Biobrick Diesel (Unrefined) (1x) 1/min 
+   Shiverthorn Coolant (1x) 1/min",Crusher MKI,Biobrick Diesel (Impure) (14x) 14/min,science.Sierra.T4. Biobrick Diesel Recycling
+Biobrick Diesel (Unrefined) (28x) 28/min,Assembler MKI,"Biobrick (40x) 40/min 
+   Sesamite Coolant (24x) 24/min",science.Sierra.T1. Biobrick Diesel (Sesamite Base)
+Biobrick Diesel Infusion Pack (2x) 2/min,Assembler MKI,"Biobrick Diesel (Unrefined) (56x) 56/min 
+   Sesamite Powder (10x) 10/min 
+   Carbon Powder Brick (2x) 2/min",science.Sierra.T3. Biobrick Diesel Infusion
+Blast Drill (1x) 0.375/min,Assembler MKI,"Mining Drill (4x) 1.5/min 
+   Reinforced Iron Frame (4x) 1.5/min 
+   Processor Unit (10x) 3.75/min",terraforming.Xray.T2. Blast Drill
+Blast Smelter (1x) 1/min,Assembler MKI,"Smelter (2x) 2/min 
+   Ceramic Tiles (20x) 20/min 
+   Steel Frame (2x) 2/min",synthesis.Xray.T3. Blast Smelter
+C,,,
+Carbon Frame (1x) 1/min,Assembler MKI,"Steel Frame (4x) 4/min 
+   Copper Frame (8x) 8/min 
+   Carbon Powder Brick (6x) 6/min",science.Sierra.T1. Carbon Frame
+"Carbon Frame (1x) 1/min 
+   Processor Array (1x) 1/min 
+   Electric Frame (1x) 1/min",Crusher MKI,"Scrap Ore (250x) 250/min 
+   Shiverthorn Extract Gel (5x) 5/min",science.Sierra.T4. Crusher Scrap Dipping
+"Carbon Frame (1x) 1/min 
+   Processor Array (1x) 1/min 
+   Electric Frame (1x) 1/min",Crusher MKI,"Scrap Ore (250x) 250/min 
+   Shiverthorn Extract Gel (5x) 5/min",science.Sierra.T4. Crusher Scrap Dipping
+"Carbon Frame (1x) 1/min 
+   Processor Array (1x) 1/min 
+   Electric Frame (1x) 1/min",Crusher MKI,"Scrap Ore (250x) 250/min 
+   Shiverthorn Extract Gel (5x) 5/min",science.Sierra.T4. Crusher Scrap Dipping
+Carbon Powder (125x) 500/min,Thresher MKI,Carbon Powder Brick (1x) 4/min,terraforming.Xray.T3. Advanced Brick Threshing
+Carbon Powder (1x) 1/min,Blast smelter MKI,Plantmatter Brick (2x) 2/min,synthesis.Xray.T4. Carbon Powder
+Carbon Powder (1x) 1/min,Blast smelter MKI,Plantmatter Fiber (10x) 10/min,synthesis.Xray.T4. Carbon Powder
+Carbon Powder (1x) 1/min,Blast smelter MKI,Plantmatter (4x) 4/min,synthesis.Xray.T4. Carbon Powder
+Carbon Powder (1x) 1/min,Blast smelter MKI,Plantmatter Frame (1x) 1/min,synthesis.Xray.T4. Carbon Powder
+Carbon Powder (1x) 1/min,Blast smelter MKI,Conveyor Belt (1x) 1/min,science.Xray.T5. Blast Incineration
+Carbon Powder (1x) 1/min,Blast smelter MKI,Conveyor Belt MKII (1x) 1/min,science.Xray.T5. Blast Incineration
+Carbon Powder (1x) 1/min,Blast smelter MKI,Conveyor Belt MKIII (1x) 1/min,science.Xray.T5. Blast Incineration
+Carbon Powder (1x) 1/min,Blast smelter MKI,Inserter (1x) 1/min,science.Xray.T5. Blast Incineration
+Carbon Powder (1x) 1/min,Blast smelter MKI,Long Inserter (1x) 1/min,science.Xray.T5. Blast Incineration
+Carbon Powder (1x) 1/min,Blast smelter MKI,Filter Inserter (1x) 1/min,science.Xray.T5. Blast Incineration
+Carbon Powder (1x) 1/min,Blast smelter MKI,Fast Inserter (1x) 1/min,science.Xray.T5. Blast Incineration
+Carbon Powder (1x) 1/min,Blast smelter MKI,Stack Inserter (1x) 1/min,science.Xray.T5. Blast Incineration
+Carbon Powder (1x) 1/min,Blast smelter MKI,Stack Filter Inserter (1x) 1/min,science.Xray.T5. Blast Incineration
+Carbon Powder (1x) 1/min,Blast smelter MKI,Container (1x) 1/min,science.Xray.T5. Blast Incineration
+Carbon Powder (1x) 1/min,Blast smelter MKI,Container MKII (1x) 1/min,science.Xray.T5. Blast Incineration
+Carbon Powder (1x) 1/min,Blast smelter MKI,Mining Drill (1x) 1/min,science.Xray.T5. Blast Incineration
+Carbon Powder (1x) 1/min,Blast smelter MKI,Mining Drill MKII (1x) 1/min,science.Xray.T5. Blast Incineration
+Carbon Powder (1x) 1/min,Blast smelter MKI,Blast Drill (1x) 1/min,science.Xray.T5. Blast Incineration
+Carbon Powder (1x) 1/min,Smelter MKI,Carbon Powder (20x) 20/min,science.Xray.T5. Basic Incineration
+Carbon Powder (1x) 1/min,Smelter MKI,Quicklime (20x) 20/min,science.Xray.T5. Basic Incineration
+Carbon Powder (1x) 1/min,Smelter MKI,Gravel (20x) 20/min,science.Xray.T5. Basic Incineration
+Carbon Powder Brick (1x) 1.25/min,Assembler MKI,Carbon Powder (500x) 625.0/min,terraforming.Xray.T3. Advanced Powder Bricks
+Cement (1x) 1/min,Assembler MKI,Quicklime (6x) 6/min,synthesis.Xray.T1. Cement
+Ceramic Parts (1x) 1/min,Assembler MKI,Clay (20x) 20/min,science.Xray.T3. Ceramics
+Ceramic Tiles (4x) 4/min,Assembler MKI,Ceramic Parts (10x) 10/min,science.Xray.T3. Ceramics
+Clay (1x) 1.5/min,Assembler MKI,"Limestone Brick (1x) 1.5/min 
+   Shiverthorn Extract Gel (2x) 3.0/min 
+   Sesamite Gel (2x) 3.0/min",synthesis.Sierra.T1. Mass Production (Clay)
+Clay (1x) 1/min,Assembler MKI,"Limestone (6x) 6/min 
+   Shiverthorn Extract (6x) 6/min",science.Xray.T4. Advanced Clay Production
+Clay (5x) 5/min,Assembler MKI,Dirt (10x) 10/min,science.Xray.T3. Ceramics
+Concrete (1x) 1/min,Assembler MKI,"Cement (1x) 1/min 
+   Gravel (3x) 3/min",synthesis.Xray.T2. Concrete
+Condensed Scrap Ore (1x) 1/min,Crusher MKI,"Scrap Ore (250x) 250/min 
+   Limestone (60x) 60/min",synthesis.Sierra.T3. Scrap Compression
+Container (1x) 2/min,Assembler MKI,"Iron Components (8x) 16/min 
+   Iron Ingot (6x) 12/min",Lima.T3. Basic Logistics
+Conveyor Belt (125x) 125/min,Assembler MKI,"Gearbox (1x) 1/min 
+   Sesamite Gel (2x) 2/min",logistics.Sierra.T2. Mass Production (Conveyor Belts)
+Conveyor Belt (5x) 75/min,Assembler MKI,"Iron Ingot (4x) 60/min 
+   Copper Wire (3x) 45/min",Lima.T3. Basic Logistics
+Conveyor Belt MKII (50x) 50/min,Assembler MKI,"Conveyor Belt (100x) 100/min 
+   Processor Array (1x) 1/min 
+   Sesamite Gel (1x) 1/min",logistics.Sierra.T2. Mass Production (Conveyor Belts)
+Conveyor Belt MKII (5x) 5/min,Assembler MKI,"Conveyor Belt (10x) 10/min 
+   Copper Components (5x) 5/min 
+   Shiverthorn Extract (5x) 5/min",logistics.Victor.T1. Conveyor MKII
+Conveyor Belt MKIII (5x) 5/min,Assembler MKI,"Conveyor Belt MKII (10x) 10/min 
+   Electric Motor (1x) 1/min 
+   Atlantum Ingot (10x) 10/min",logistics.Victor.T3. Conveyor MKIII
+Cooling System (100x) 100/min,Assembler MKI,"Gearbox (1x) 1/min 
+   Sesamite Coolant (2x) 2/min",synthesis.Sierra.T2. Mass Production (Cooling System)
+Cooling System (1x) 1/min,Assembler MKI,"Scrap Ore (40x) 40/min 
+   Gold Ingot (2x) 2/min",synthesis.Sierra.T4. Cooling Systems (Gold)
+Cooling System (3x) 4.5/min,Assembler MKI,"Mechanical Components (2x) 3.0/min 
+   Shiverthorn Extract (2x) 3.0/min",Victor.T2. Cooling Systems
+Copper Components (1x) 1/min,Crusher MKI,Copper Mechanism (1x) 1/min,science.Sierra.T3. Mechanism Disassembly (Copper)
+Copper Components (2x) 15.0/min,Assembler MKI,Copper Ingot (4x) 30.0/min,Lima.T1. Basic Manufacturing
+Copper Frame (160x) 160/min,Assembler MKI,"Copper Slab (10x) 10/min 
+   Sesamite Gel (2x) 2/min",synthesis.Sierra.T1. Mass Production (Basic Frames)
+Copper Frame (1x) 5/min,Assembler MKI,Copper Ingot (6x) 30/min,Lima.T4. Electric Components
+Copper Frame (5x) 10/min,Thresher MKI,Reinforced Copper Frame (1x) 2/min,science.Xray.T2. Reinforced Frames Threshing
+Copper Ingot (1x) 1/min,Blast smelter MKI,Copper Ore (2x) 2/min,synthesis.Xray.T3. Blast Smelter
+Copper Ingot (1x) 1/min,Crusher MKI,Copper Slab (1x) 1/min,synthesis.Sierra.T4. Slab Processing (Rapid)
+Copper Ingot (1x) 1/min,Crusher MKI,"Sesamite Ingot (2x) 2/min 
+   Copper Ore Powder (1x) 1/min",science.Sierra.T6. Sesamite Mutation
+Copper Ingot (2x) 15.0/min,Smelter MKI,Copper Ore Powder (2x) 15.0/min,terraforming.Xray.T2. Metal Powder Smelting
+Copper Mechanism (1x) 0.5/min,Assembler MKI,Copper Components (100x) 50.0/min,Xray.T2. Basic Mechanisms
+Copper Mechanism (1x) 3/min,Assembler MKI,Copper Slab (2x) 6/min,science.Xray.T3. Basic Optimization
+"Copper Ore (25x) 25/min 
+   Gravel (5x) 5/min",Thresher MKI,Copper Chunk (1x) 1/min,terraforming.Xray.T2. Gravel Threshing
+"Copper Ore (25x) 25/min 
+   Gravel (5x) 5/min",Thresher MKI,Copper Chunk (1x) 1/min,terraforming.Xray.T2. Gravel Threshing
+"Copper Ore (5x) 50/min 
+   Limestone (4x) 40/min",Thresher MKI,Copper-Infused Limestone (1x) 10/min,terraforming.Xray.T3. Infused Ore Threshing
+"Copper Ore (5x) 50/min 
+   Limestone (4x) 40/min",Thresher MKI,Copper-Infused Limestone (1x) 10/min,terraforming.Xray.T3. Infused Ore Threshing
+Copper Ore Powder (1x) 1/min,Crusher MKI,"Copper Chunk (14x) 14/min 
+   Limestone (40x) 40/min",terraforming.Sierra.T7. Copper Maxcrush
+"Copper Ore Powder (1x) 1/min 
+   Limestone (1x) 1/min",Crusher MKI,Copper-Infused Limestone (1x) 1/min,synthesis.Sierra.T7. Advanced Copper Processing (Infused)
+"Copper Ore Powder (1x) 1/min 
+   Limestone (1x) 1/min",Crusher MKI,Copper-Infused Limestone (1x) 1/min,synthesis.Sierra.T7. Advanced Copper Processing (Infused)
+Copper Ore Powder (1x) 20/min,Thresher MKI,Copper Ore (1x) 20/min,terraforming.Xray.T2. Sand Threshing
+Copper Slab (1x) 1/min,Assembler MKI,Refined Copper Chunk (1x) 1/min,terraforming.Xray.T3. Basic Refinement
+Copper Slab (1x) 1/min,Blast smelter MKI,Copper Chunk (2x) 2/min,synthesis.Xray.T3. Basic Slabs
+Copper Slab (1x) 1/min,Blast smelter MKI,Copper Ingot (25x) 25/min,synthesis.Xray.T4. Basic Forging
+Copper Wire (12x) 18.0/min,Assembler MKI,Copper Ingot (1x) 1.5/min,Lima.T2. Basic Science
+Copper Wire (1x) 1/min,Crusher MKI,Wire Spindle (1x) 1/min,science.Sierra.T4. Spindle Disassembly
+"Copper-Infused Limestone (1x) 1/min 
+   Gravel (1x) 1/min",Crusher MKI,"Copper Chunk (1x) 1/min 
+   Limestone Brick (1x) 1/min",synthesis.Sierra.T8. Mass Production (Copper-Infused Limestone)
+"Copper-Infused Limestone (1x) 1/min 
+   Gravel (1x) 1/min",Crusher MKI,"Copper Chunk (1x) 1/min 
+   Limestone Brick (1x) 1/min",synthesis.Sierra.T8. Mass Production (Copper-Infused Limestone)
+Copper-Infused Limestone (1x) 2.5/min,Assembler MKI,"Copper Ore Powder (3x) 7.5/min 
+   Shiverthorn Extract (1x) 2.5/min 
+   Limestone (20x) 50.0/min",terraforming.Xray.T3. Ore Infusion
+Core Composer (1x) 1/min,Assembler MKI,"Iron Frame (20x) 20/min 
+   Mechanical Components (10x) 10/min 
+   Electrical Components (50x) 50/min",construction.Victor.T2. Core Composer
+Crank Generator (1x) 1/min,Assembler MKI,"Copper Components (8x) 8/min 
+   Electrical Components (4x) 4/min",energy.Lima.T4. Crank Generator
+Crank Generator MKII (1x) 1/min,Assembler MKI,"Crank Generator (8x) 8/min 
+   Relay Circuit (2x) 2/min 
+   Electric Motor (4x) 4/min",energy.Victor.T5. Crank Generator MKII
+Crusher (1x) 1/min,Assembler MKI,"Thresher MKII (4x) 4/min 
+   Sensor Block (12x) 12/min 
+   Actuator (3x) 3/min",synthesis.Sierra.T3. Crusher MKI
+D,,,
+Decorative Concrete (1x) 1/min,Assembler MKI,"Cement (2x) 2/min 
+   Sand (3x) 3/min",synthesis.Xray.T2. Decorative Materials
+Dirt (2x) 120/min,Assembler MKI,Plantmatter Fiber (24x) 1440/min,synthesis.Lima.T3. Decomposition
+Dirt (5x) 100/min,Assembler MKI,Plantmatter (20x) 400/min,synthesis.Lima.T3. Decomposition
+E,,,
+Electric Frame (4x) 4/min,Assembler MKI,"Iron Frame (2x) 2/min 
+   Copper Frame (2x) 2/min 
+   Wire Spindle (4x) 4/min",science.Xray.T3. Electic Motor
+Electric Motor (1x) 1/min,Assembler MKI,"Steel Ingot (4x) 4/min 
+   Electric Frame (2x) 2/min 
+   Ceramic Parts (4x) 4/min",science.Xray.T3. Electic Motor
+Electrical Components (1x) 1/min,Crusher MKI,Electrical Set (1x) 1/min,science.Sierra.T6. Electrical Set Deconstruction
+Electrical Components (2x) 3.0/min,Assembler MKI,"Iron Ingot (1x) 1.5/min 
+   Copper Wire (4x) 6.0/min",Lima.T4. Electric Components
+Electrical Set (1x) 1.25/min,Assembler MKI,Electrical Components (100x) 125.0/min,Xray.T3. Advanced Components
+Electrical Set (1x) 1/min,Assembler MKI,"Scrap Ore (250x) 250/min 
+   Gold Ingot (12x) 12/min",synthesis.Sierra.T3. Electrical Set (Gold)
+Electrical Set (1x) 1/min,Assembler MKI,"Iron Slab (2x) 2/min 
+   Wire Spindle (2x) 2/min",science.Xray.T4. Production Optimization
+Excavator Bit MKI (4x) 4/min,Assembler MKI,"Iron Ingot (4x) 4/min 
+   Copper Ingot (8x) 8/min",terraforming.Lima.T4. Excavator Bit MKI
+Excavator Bit MKII (1x) 1/min,Assembler MKI,"Mining Drill (2x) 2/min 
+   Plantmatter Frame (2x) 2/min 
+   Excavator Bit MKI (1x) 1/min",terraforming.Victor.T1. Excavator Bit MKII
+Excavator Bit MKIII (1x) 0.5/min,Assembler MKI,"Assembler (2x) 1.0/min 
+   Cooling System (4x) 2.0/min 
+   Excavator Bit MKII (1x) 0.5/min",terraforming.Victor.T2. Excavator Bit MKIII
+Excavator Bit MKIV (1x) 0.25/min,Assembler MKI,"Accumulator (2x) 0.5/min 
+   Atlantum Ingot (12x) 3.0/min 
+   Excavator Bit MKIII (1x) 0.25/min",terraforming.Victor.T4. Excavator Bit MKIV
+Excavator Bit MKV (1x) 0.25/min,Assembler MKI,"Thresher MKII (4x) 1.0/min 
+   Steel Frame (20x) 5.0/min 
+   Excavator Bit MKIV (1x) 0.25/min",terraforming.Victor.T5. Excavator Bit MKV
+Excavator Bit MKVI (1x) 1/min,Assembler MKI,"Carbon Frame (100x) 100/min 
+   Actuator (4x) 4/min 
+   Excavator Bit MKV (1x) 1/min",terraforming.Sierra.T2. Excavator Bit MKVI
+Excavator Bit MKVII (1x) 1/min,Assembler MKI,"Sensor Block (32x) 32/min 
+   Sesamite Ingot (20x) 20/min 
+   Excavator Bit MKVI (1x) 1/min",terraforming.Sierra.T6. Excavator Bit MKVII
+F,,,
+Filter Inserter (1x) 1/min,Assembler MKI,"Inserter (2x) 2/min 
+   Electrical Components (8x) 8/min",logistics.Lima.T4. Filter Inserter
+G,,,
+Gearbox (1x) 1.25/min,Assembler MKI,Mechanical Components (100x) 125.0/min,Xray.T3. Advanced Components
+Gearbox (1x) 1/min,Assembler MKI,"Copper Slab (2x) 2/min 
+   Iron Slab (4x) 4/min",science.Xray.T4. Production Optimization
+"Gearbox (1x) 1/min 
+   Iron Mechanism (1x) 1/min 
+   Copper Mechanism (1x) 1/min",Crusher MKI,Scrap Ore (250x) 250/min,synthesis.Sierra.T3. Crusher MKI
+"Gearbox (1x) 1/min 
+   Iron Mechanism (1x) 1/min 
+   Copper Mechanism (1x) 1/min",Crusher MKI,Scrap Ore (250x) 250/min,synthesis.Sierra.T3. Crusher MKI
+"Gearbox (1x) 1/min 
+   Iron Mechanism (1x) 1/min 
+   Copper Mechanism (1x) 1/min",Crusher MKI,Scrap Ore (250x) 250/min,synthesis.Sierra.T3. Crusher MKI
+Glass (1x) 15/min,Smelter MKI,Sand (6x) 90/min,Sierra.T1. Glass
+Gold Ingot (1x) 1/min,Assembler MKI,Gold Ore (4x) 4/min,synthesis.Sierra.T3. Gold Ingot
+"Gold Ore (1x) 1/min 
+   Atlantum Slab (1x) 1/min 
+   Steel Slab (1x) 1/min",Crusher MKI,"Scrap Ore (250x) 250/min 
+   Shiverthorn Extract (120x) 120/min",synthesis.Sierra.T3. Crusher Scrap Washing
+"Gold Ore (1x) 1/min 
+   Atlantum Slab (1x) 1/min 
+   Steel Slab (1x) 1/min",Crusher MKI,"Scrap Ore (250x) 250/min 
+   Shiverthorn Extract (120x) 120/min",synthesis.Sierra.T3. Crusher Scrap Washing
+"Gold Ore (1x) 1/min 
+   Atlantum Slab (1x) 1/min 
+   Steel Slab (1x) 1/min",Crusher MKI,"Scrap Ore (250x) 250/min 
+   Shiverthorn Extract (120x) 120/min",synthesis.Sierra.T3. Crusher Scrap Washing
+Gravel (10x) 60/min,Thresher MKI,Ceramic Parts (1x) 6/min,science.Xray.T4. Ceramics Threshing
+"Gravel (1x) 1/min 
+   Limestone (1x) 1/min",Crusher MKI,"Limestone Brick (100x) 100/min 
+   Gravel (4x) 4/min",science.Sierra.T3. Gravel Mixing
+"Gravel (1x) 1/min 
+   Limestone (1x) 1/min",Crusher MKI,"Limestone Brick (100x) 100/min 
+   Gravel (4x) 4/min",science.Sierra.T3. Gravel Mixing
+I,,,
+Inserter (1x) 15/min,Assembler MKI,Mechanical Components (1x) 15/min,Lima.T3. Basic Logistics
+Inserter (50x) 50/min,Assembler MKI,"Gearbox (1x) 1/min 
+   Sesamite Gel (1x) 1/min",logistics.Sierra.T1. Mass Production (Inserters)
+Iron Components (1x) 1/min,Crusher MKI,Iron Mechanism (1x) 1/min,science.Sierra.T3. Mechanism Disassembly (Iron)
+Iron Components (1x) 15/min,Assembler MKI,Iron Ingot (2x) 30/min,Lima.T1. Basic Manufacturing
+Iron Frame (160x) 160/min,Assembler MKI,"Iron Slab (10x) 10/min 
+   Sesamite Gel (2x) 2/min",synthesis.Sierra.T1. Mass Production (Basic Frames)
+"Iron Frame (1x) 1/min 
+   Concrete (1x) 1/min",Thresher MKII,"File:Calycite Beam 3x1.png Calycite Beam 3x1 (10x) 10/min 
+   Gravel (2x) 2/min",Sierra.T7. Calycite Deconstruction
+"Iron Frame (1x) 1/min 
+   Concrete (1x) 1/min",Thresher MKII,"File:Calycite Beam 3x1.png Calycite Beam 3x1 (10x) 10/min 
+   Gravel (2x) 2/min",Sierra.T7. Calycite Deconstruction
+Iron Frame (1x) 5/min,Assembler MKI,Iron Ingot (6x) 30/min,Lima.T4. Electric Components
+Iron Frame (5x) 10/min,Thresher MKI,Reinforced Iron Frame (1x) 2/min,science.Xray.T2. Reinforced Frames Threshing
+Iron Ingot (1x) 1/min,Blast smelter MKI,Iron Ore (2x) 2/min,synthesis.Xray.T3. Blast Smelter
+Iron Ingot (1x) 1/min,Crusher MKI,Iron Slab (1x) 1/min,synthesis.Sierra.T4. Slab Processing (Rapid)
+Iron Ingot (1x) 1/min,Crusher MKI,"Sesamite Ingot (2x) 2/min 
+   Iron Ore Powder (1x) 1/min",science.Sierra.T6. Sesamite Mutation
+"Iron Ingot (1x) 1/min 
+   Cement (1x) 1/min",Thresher MKII,"File:Calycite Beam 1x1.png Calycite Beam 1x1 (5x) 5/min 
+   Gravel (2x) 2/min",Sierra.T7. Calycite Deconstruction
+"Iron Ingot (1x) 1/min 
+   Cement (1x) 1/min",Thresher MKII,"File:Calycite Beam 1x1.png Calycite Beam 1x1 (5x) 5/min 
+   Gravel (2x) 2/min",Sierra.T7. Calycite Deconstruction
+Iron Ingot (2x) 15.0/min,Smelter MKI,Iron Ore Powder (2x) 15.0/min,terraforming.Xray.T2. Metal Powder Smelting
+Iron Mechanism (1x) 1/min,Assembler MKI,Iron Slab (2x) 2/min,science.Xray.T3. Basic Optimization
+Iron Mechanism (4x) 10.0/min,Assembler MKI,Iron Components (100x) 250.0/min,Xray.T2. Basic Mechanisms
+"Iron Ore (25x) 25/min 
+   Gravel (5x) 5/min",Thresher MKI,Iron Chunk (1x) 1/min,terraforming.Xray.T2. Gravel Threshing
+"Iron Ore (25x) 25/min 
+   Gravel (5x) 5/min",Thresher MKI,Iron Chunk (1x) 1/min,terraforming.Xray.T2. Gravel Threshing
+"Iron Ore (5x) 50/min 
+   Limestone (4x) 40/min",Thresher MKI,Iron-Infused Limestone (1x) 10/min,terraforming.Xray.T3. Infused Ore Threshing
+"Iron Ore (5x) 50/min 
+   Limestone (4x) 40/min",Thresher MKI,Iron-Infused Limestone (1x) 10/min,terraforming.Xray.T3. Infused Ore Threshing
+Iron Ore Powder (1x) 1/min,Crusher MKI,"Iron Chunk (14x) 14/min 
+   Limestone (40x) 40/min",terraforming.Sierra.T7. Iron Maxcrush
+"Iron Ore Powder (1x) 1/min 
+   Limestone (1x) 1/min",Crusher MKI,Iron-Infused Limestone (1x) 1/min,synthesis.Sierra.T7. Advanced Iron Processing (Infused)
+"Iron Ore Powder (1x) 1/min 
+   Limestone (1x) 1/min",Crusher MKI,Iron-Infused Limestone (1x) 1/min,synthesis.Sierra.T7. Advanced Iron Processing (Infused)
+Iron Ore Powder (1x) 20/min,Thresher MKI,Iron Ore (1x) 20/min,terraforming.Xray.T2. Sand Threshing
+Iron Slab (1x) 1/min,Assembler MKI,Refined Iron Chunk (1x) 1/min,terraforming.Xray.T3. Basic Refinement
+Iron Slab (1x) 1/min,Blast smelter MKI,Iron Chunk (2x) 2/min,synthesis.Xray.T3. Basic Slabs
+Iron Slab (1x) 1/min,Blast smelter MKI,Iron Ingot (25x) 25/min,synthesis.Xray.T4. Basic Forging
+"Iron Slab (1x) 1/min 
+   Concrete (1x) 1/min",Thresher MKII,"File:Calycite Beam 5x1.png Calycite Beam 5x1 (20x) 20/min 
+   Gravel (2x) 2/min",Sierra.T7. Calycite Deconstruction
+"Iron Slab (1x) 1/min 
+   Concrete (1x) 1/min",Thresher MKII,"File:Calycite Beam 5x1.png Calycite Beam 5x1 (20x) 20/min 
+   Gravel (2x) 2/min",Sierra.T7. Calycite Deconstruction
+"Iron-Infused Limestone (1x) 1/min 
+   Gravel (1x) 1/min",Crusher MKI,"Iron Chunk (1x) 1/min 
+   Limestone Brick (1x) 1/min",synthesis.Sierra.T8. Mass Production (Iron-Infused Limestone)
+"Iron-Infused Limestone (1x) 1/min 
+   Gravel (1x) 1/min",Crusher MKI,"Iron Chunk (1x) 1/min 
+   Limestone Brick (1x) 1/min",synthesis.Sierra.T8. Mass Production (Iron-Infused Limestone)
+Iron-Infused Limestone (1x) 2.5/min,Assembler MKI,"Iron Ore Powder (3x) 7.5/min 
+   Shiverthorn Extract (1x) 2.5/min 
+   Limestone (20x) 50.0/min",terraforming.Xray.T3. Ore Infusion
+K,,,
+Kindlevine (Item) (1x) 1/min,Planter MKI,Kindlevine Seed (1x) 1/min,synthesis.Lima.T4. Planter
+Kindlevine Extract Brick (1x) 1.25/min,Assembler MKI,Kindlevine_Extract (500x) 625.0/min,terraforming.Xray.T3. Advanced Powder Bricks
+Kindlevine Seed (1x) 1/min,Assembler MKI,"Universal Seed Pod (1x) 1/min 
+   Atlantum Powder (21x) 21/min 
+   Kindlevine_Extract (14x) 14/min",science.Victor.T3. Seed Pod Restoration
+"Kindlevine Seed (3x) 30/min 
+   Kindlevine Stems (3x) 30/min",Thresher MKI,Kindlevine (Item) (1x) 10/min,synthesis.Lima.T4. Kindlevine Threshing
+"Kindlevine Seed (5x) 2.0/min 
+   Shiverthorn Seed (5x) 2.0/min",Thresher MKI,Unstable Seed Pod (1x) 0.4/min,science.Sierra.T1. Unstable Pod Processing
+"Kindlevine Seed (5x) 2.0/min 
+   Shiverthorn Seed (5x) 2.0/min",Thresher MKI,Unstable Seed Pod (1x) 0.4/min,science.Sierra.T1. Unstable Pod Processing
+Kindlevine Stems (Washed) (4x) 4/min,Assembler MKI,"Kindlevine Stems (4x) 4/min 
+   Shiverthorn Extract (12x) 12/min",synthesis.Victor.T3. Stem Washing
+Kindlevine_Extract (125x) 500/min,Thresher MKI,Kindlevine Extract Brick (1x) 4/min,terraforming.Xray.T3. Advanced Brick Threshing
+"Kindlevine_Extract (1x) 1/min 
+   Plantmatter Brick (1x) 1/min 
+   Kindlevine Seed (1x) 1/min",Crusher MKI,Kindlevine (Item) (30x) 30/min,science.Sierra.T5. Mass Processing (Kindlevine)
+"Kindlevine_Extract (1x) 1/min 
+   Plantmatter Brick (1x) 1/min 
+   Kindlevine Seed (1x) 1/min",Crusher MKI,Kindlevine (Item) (30x) 30/min,science.Sierra.T5. Mass Processing (Kindlevine)
+"Kindlevine_Extract (3x) 15/min 
+   Plantmatter Fiber (3x) 15/min",Thresher MKI,Kindlevine Stems (1x) 5/min,synthesis.Lima.T4. Stem Threshing
+"Kindlevine_Extract (3x) 15/min 
+   Plantmatter Fiber (3x) 15/min",Thresher MKI,Kindlevine Stems (1x) 5/min,synthesis.Lima.T4. Stem Threshing
+Kindlevine_Extract (7x) 70/min,Thresher MKI,Kindlevine Stems (Washed) (1x) 10/min,synthesis.Lima.T4. Stem Threshing
+L,,,
+Laser Pistol (1x) 1/min,Assembler MKI,"Iron Ingot (10x) 10/min 
+   Electrical Components (5x) 5/min",science.Victor.T2. Laser Pistol
+Limestone (125x) 500/min,Thresher MKI,Limestone Brick (1x) 4/min,terraforming.Victor.T1. Basic Brick Threshing
+Limestone (1x) 1/min,Smelter MKI,Kindlevine_Extract (2x) 2/min,synthesis.Victor.T1. Limestone Extraction
+Limestone Brick (1x) 1/min,Blast smelter MKI,Kindlevine_Extract (500x) 500/min,synthesis.Xray.T3. Blast Smelter
+Limestone Brick (1x) 2.5/min,Assembler MKI,Limestone (500x) 1250.0/min,terraforming.Victor.T1. Basic Powder Brick
+Long Inserter (1x) 1/min,Assembler MKI,"Inserter (2x) 2/min 
+   Mechanical Components (3x) 3/min",logistics.Lima.T3. Long inserter
+Long Inserter (1x) 1/min,Assembler MKI,"Inserter (2x) 2/min 
+   Kindlevine_Extract (16x) 16/min",logistics.Victor.T1. Fast Inserter
+Long Stack Filter Inserter (1x) 1/min,Assembler MKI,"Stack Filter Inserter (4x) 4/min 
+   Sensor Block (4x) 4/min 
+   Carbon Frame (18x) 18/min",logistics.Sierra.T2. Long Stack Filter Inserter
+M,,,
+Mechanical Components (1x) 1/min,Crusher MKI,Gearbox (1x) 1/min,science.Sierra.T5. Gearbox Deconstruction
+Mechanical Components (8x) 40/min,Assembler MKI,"Copper Ingot (2x) 10/min 
+   Iron Ingot (2x) 10/min",Lima.T1. Basic Manufacturing
+Mining Charge (1x) 7.5/min,Assembler MKI,"Plantmatter Fiber (2x) 15.0/min 
+   Shiverthorn Extract (2x) 15.0/min 
+   Kindlevine_Extract (2x) 15.0/min",terraforming.Victor.T3. Mining Charge
+Mining Charge (50x) 50/min,Assembler MKI,"Plantmatter Brick (1x) 1/min 
+   Sesamite Gel (2x) 2/min 
+   Carbon Powder Brick (2x) 2/min",science.Sierra.T2. Mass Production (Mining Charge)
+Mining Drill (1x) 2.5/min,Assembler MKI,"Iron Frame (3x) 7.5/min 
+   Iron Components (20x) 50.0/min",terraforming.Lima.T1. Mining Drill
+Mining Drill MKII (1x) 0.25/min,Assembler MKI,"Mining Drill (4x) 1.0/min 
+   Cooling System (8x) 2.0/min 
+   Processor Unit (10x) 2.5/min",terraforming.Victor.T3. Mining Drill MKII
+N,,,
+Nexus (1x) 1/min,Assembler MKI,"Iron Components (10x) 10/min 
+   Atlantum Ingot (2x) 2/min 
+   Accumulator (2x) 2/min",science.Victor.T3. Nexus
+O,,,
+Omniseeker (1x) 1/min,Assembler MKI,"Processor Unit (4x) 4/min 
+   Scanner (2x) 2/min 
+   Iron Components (1x) 1/min",science.Victor.T1. Omniseeker
+P,,,
+Planter (1x) 3.75/min,Assembler MKI,"Iron Components (2x) 7.5/min 
+   Electrical Components (8x) 30.0/min 
+   Dirt (8x) 30.0/min",synthesis.Lima.T4. Planter
+Planter MKII (1x) 1/min,Assembler MKI,"Planter (4x) 4/min 
+   Sensor Block (6x) 6/min 
+   Actuator (1x) 1/min",synthesis.Sierra.T5. Planter MKII
+Plantmatter (12x) 12/min,Assembler MKI,Plantmatter Fiber (12x) 12/min,synthesis.Victor.T1. Plantmatter
+Plantmatter Brick (1x) 1/min,Crusher MKI,"Plantmatter (220x) 220/min 
+   Sesamite Gel (1x) 1/min",synthesis.Sierra.T4. BioMass Compression
+Plantmatter Brick (1x) 1/min,Crusher MKI,"Plantmatter Fiber (90x) 90/min 
+   Sesamite Gel (1x) 1/min",synthesis.Sierra.T5. Plantmatter Compression
+"Plantmatter Brick (1x) 1/min 
+   Kindlevine_Extract (1x) 1/min",Crusher MKI,"Condensed Scrap Ore (1x) 1/min 
+   Kindlevine_Extract (10x) 10/min",synthesis.Sierra.T4. Bio Extraction
+"Plantmatter Brick (1x) 1/min 
+   Kindlevine_Extract (1x) 1/min",Crusher MKI,"Condensed Scrap Ore (1x) 1/min 
+   Kindlevine_Extract (10x) 10/min",synthesis.Sierra.T4. Bio Extraction
+Plantmatter Brick (2x) 2/min,Assembler MKI,Kindlevine Stems (Washed) (50x) 50/min,synthesis.Victor.T3. Stem Washing
+Plantmatter Brick (2x) 2/min,Assembler MKI,Shiverthorn Buds (Neutralized) (100x) 100/min,synthesis.Victor.T4. Shiverthorn Neutralization
+Plantmatter Brick (2x) 2/min,Assembler MKI,Plantmatter Frame (100x) 100/min,synthesis.Xray.T2. Flora Compression
+Plantmatter Brick (2x) 2/min,Assembler MKI,Plantmatter Fiber (400x) 400/min,synthesis.Xray.T2. Flora Compression
+Plantmatter Brick (2x) 2/min,Assembler MKI,Sesamite Stems (12x) 12/min,synthesis.Sierra.T6. Sesamite Stem Compression
+Plantmatter Fiber (2x) 20/min,Thresher MKI,Plantmatter Frame (1x) 10/min,synthesis.Victor.T1. Plantmatter Fiber (Separation)
+Plantmatter Fiber (3x) 7.5/min,Assembler MKI,Plantmatter (16x) 40.0/min,synthesis.Victor.T2. Fiber Extraction
+Plantmatter Fiber (50x) 2500/min,Thresher MKI,Plantmatter Brick (1x) 50/min,synthesis.Xray.T2. Plantmatter Brick Threshing
+Plantmatter Frame (1x) 7.5/min,Assembler MKI,Plantmatter Fiber (6x) 45.0/min,synthesis.Lima.T4. Plantmatter Frames
+Plantmatter Frame (8x) 8/min,Assembler MKI,Kindlevine Stems (5x) 5/min,synthesis.Victor.T2. Plantmatter Frames (Optimized)
+Processor Array (1x) 1/min,Assembler MKI,"Electrical Set (4x) 4/min 
+   Plantmatter Brick (4x) 4/min",science.Xray.T4. Production Optimization
+Processor Array (1x) 2.5/min,Assembler MKI,Processor Unit (100x) 250.0/min,Xray.T3. Advanced Components
+Processor Unit (1x) 1/min,Crusher MKI,Processor Array (1x) 1/min,science.Sierra.T7. Processor Array Deconstruction
+Processor Unit (2x) 2/min,Assembler MKI,"Electrical Components (4x) 4/min 
+   Plantmatter Frame (4x) 4/min",science.Victor.T1. Processor Unit
+Q,,,
+Quicklime (1x) 1/min,Blast smelter MKI,Limestone (1x) 1/min,synthesis.Xray.T3. Quicklime Blasting
+Quicklime (1x) 1/min,Blast smelter MKI,Limestone Brick (1x) 1/min,synthesis.Xray.T3. Quicklime Blasting
+R,,,
+Refined Copper Chunk (1x) 1.25/min,Assembler MKI,"Copper-Infused Limestone (20x) 25.0/min 
+   Kindlevine_Extract (6x) 7.5/min",terraforming.Xray.T3. Ore Infusion
+Refined Copper Chunk (5x) 15/min,Assembler MKI,"Copper Chunk (10x) 30/min 
+   Shiverthorn Extract (2x) 6/min",terraforming.Xray.T3. Basic Refinement
+Refined Iron Chunk (1x) 1.25/min,Assembler MKI,"Iron-Infused Limestone (20x) 25.0/min 
+   Kindlevine_Extract (6x) 7.5/min",terraforming.Xray.T3. Ore Infusion
+Refined Iron Chunk (5x) 15/min,Assembler MKI,"Iron Chunk (10x) 30/min 
+   Shiverthorn Extract (2x) 6/min",terraforming.Xray.T3. Basic Refinement
+Reinforced Copper Frame (1x) 2.5/min,Assembler MKI,Copper Frame (20x) 50.0/min,Xray.T1. Reinforced Frames
+Reinforced Iron Frame (1x) 2.5/min,Assembler MKI,Iron Frame (20x) 50.0/min,Xray.T1. Reinforced Frames
+Relay Circuit (1x) 0.25/min,Assembler MKI,Advanced Circuit (50x) 12.5/min,Xray.T4. Relay Circuits
+Relay Circuit (1x) 1/min,Assembler MKI,"Processor Array (1x) 1/min 
+   Cooling System (50x) 50/min 
+   Atlantum Slab (2x) 2/min",science.Xray.T5. Advanced Optimization
+Relay Circuit (1x) 1/min,Assembler MKI,"Scrap Ore (250x) 250/min 
+   Gold Ingot (20x) 20/min",synthesis.Sierra.T4. Relay Circuit (Slow)
+Relay Circuit (2x) 2/min,Assembler MKI,"Processor Array (1x) 1/min 
+   Gold Ingot (25x) 25/min 
+   Atlantum Slab (2x) 2/min",science.Sierra.T5. Relay Circuit (Gold)
+Replacer (1x) 1/min,Assembler MKI,"Copper Frame (25x) 25/min 
+   Electrical Components (10x) 10/min",science.Victor.T2. Replacer
+Research Core 380nm (Purple) (1x) 3.75/min,Assembler MKI,"Copper Wire (4x) 15.0/min 
+   Mechanical Components (6x) 22.5/min",Lima.T2. Basic Science
+Research Core 480nm (Blue) (1x) 1/min,Assembler MKI,"Research Core 380nm (Purple) (12x) 12/min 
+   Processor Unit (16x) 16/min 
+   Cooling System (6x) 6/min",science.Victor.T2. Research Core (Blue)
+Research Core 520nm (Green) (1x) 1/min,Assembler MKI,"Research Core 480nm (Blue) (12x) 12/min 
+   Relay Circuit (6x) 6/min 
+   Electric Motor (12x) 12/min",science.Sierra.T1. Research Core (Green)
+Research Core 590nm (Yellow) (0.25x) 0.25/min,Assembler MKI,"Research Core 520nm (Green) (12x) 12/min 
+   Gold Ingot (10x) 10/min 
+   Sesamite Ingot (10x) 10/min",science.Sierra.T6. Research Core (Yellow)
+S,,,
+Sand (1x) 1/min,Thresher MKI,Gravel (1x) 1/min,terraforming.Xray.T2. Sand Threshing
+Sand (40x) 40/min,Smelter MKI,Sesamite Sand (200x) 200/min,terraforming.Sierra.T1. Sand Filtration
+Sand Pump (1x) 0.5/min,Assembler MKI,"Water Wheel (16x) 8.0/min 
+   Actuator (2x) 1.0/min 
+   Gearbox (8x) 4.0/min",terraforming.Sierra.T1. Sand Pump
+Scanner (4x) 6.0/min,Assembler MKI,"Copper Frame (1x) 1.5/min 
+   Electrical Components (1x) 1.5/min",Lima.T2. Basic Science
+"Scrap Ore (1x) 1/min 
+   Limestone (1x) 1/min",Crusher MKI,Condensed Scrap Ore (1x) 1/min,synthesis.Sierra.T3. Scrap Separation
+"Scrap Ore (1x) 1/min 
+   Limestone (1x) 1/min",Crusher MKI,Condensed Scrap Ore (1x) 1/min,synthesis.Sierra.T3. Scrap Separation
+"Scrap Ore (50x) 50/min 
+   Gold Ore (10x) 10/min",Crusher MKI,"Scrap Ore (250x) 250/min 
+   Sesamite Powder (60x) 60/min",Sierra.T6. Gold Ore Extraction
+"Scrap Ore (50x) 50/min 
+   Gold Ore (10x) 10/min",Crusher MKI,"Scrap Ore (250x) 250/min 
+   Sesamite Powder (60x) 60/min",Sierra.T6. Gold Ore Extraction
+Sensor Block (2x) 2/min,Assembler MKII,"Carbon Frame (10x) 10/min 
+   Glass (45x) 45/min 
+   Relay Circuit (8x) 8/min",Sierra.T2. Sensor Block
+Sesamite (1x) 1/min,Planter MKI,Sesamite Seed (1x) 1/min,synthesis.Sierra.T5. Sesamite Farming
+Sesamite Coolant (6x) 6/min,Assembler MKI,"Shiverthorn Coolant (25x) 25/min 
+   Sesamite Powder (5x) 5/min",synthesis.Sierra.T1. Sesamite Coolant
+"Sesamite Crystal (1x) 1/min 
+   Shiverthorn Extract Gel (1x) 1/min 
+   Plantmatter (1x) 1/min",Crusher MKI,"Sesamite Stems (1x) 1/min 
+   Sesamite Sand (2x) 2/min",synthesis.Sierra.T5. Sesamite Crystal Processing
+"Sesamite Crystal (1x) 1/min 
+   Shiverthorn Extract Gel (1x) 1/min 
+   Plantmatter (1x) 1/min",Crusher MKI,"Sesamite Stems (1x) 1/min 
+   Sesamite Sand (2x) 2/min",synthesis.Sierra.T5. Sesamite Crystal Processing
+"Sesamite Crystal (1x) 7.5/min 
+   Electrical Power (20x) 150.0/min",Crusher MKI,"Sesamite Powder (66x) 495.0/min 
+   Shiverthorn Extract (8x) 60.0/min",energy.Sierra.T5. Sesamite Crystal Synthesis
+"Sesamite Crystal (1x) 7.5/min 
+   Electrical Power (20x) 150.0/min",Crusher MKI,"Sesamite Powder (66x) 495.0/min 
+   Shiverthorn Extract (8x) 60.0/min",energy.Sierra.T5. Sesamite Crystal Synthesis
+Sesamite Gel (6x) 6/min,Assembler MKI,"Shiverthorn Extract Gel (1x) 1/min 
+   Sesamite Sand (50x) 50/min",terraforming.Sierra.T1. Sesamite Gel
+Sesamite Ingot (1x) 1/min,Smelter MKI,Sesamite Crystal (6x) 6/min,synthesis.Sierra.T5. Sesamite Ingot
+Sesamite Powder (1x) 1/min,Smelter MKI,Sesamite Gel (10x) 10/min,terraforming.Sierra.T1. Sesamite Evaporation
+"Sesamite Powder (1x) 1/min 
+   Sesamite Stems (1x) 1/min 
+   Sesamite Seed (1x) 1/min",Crusher MKI,Sesamite (1x) 1/min,synthesis.Sierra.T5. Sesamite Powder Processing
+"Sesamite Powder (1x) 10/min 
+   Sand (5x) 50/min 
+   Electrical Power (44x) 440/min",Crusher MKI,Sesamite Sand (25x) 250/min,science.Sierra.T3. Sesamite Sand Filtration
+"Sesamite Powder (1x) 10/min 
+   Sand (5x) 50/min 
+   Electrical Power (44x) 440/min",Crusher MKI,Sesamite Sand (25x) 250/min,science.Sierra.T3. Sesamite Sand Filtration
+"Sesamite Powder (3x) 30/min 
+   Electrical Power (27.5x) 275.0/min",Crusher MKI,"Kindlevine_Extract (36x) 360/min 
+   Sesamite Powder (12x) 120/min",Sierra.T8. CrushPower+
+"Sesamite Powder (3x) 30/min 
+   Electrical Power (27.5x) 275.0/min",Crusher MKI,"Kindlevine_Extract (36x) 360/min 
+   Sesamite Powder (12x) 120/min",Sierra.T8. CrushPower+
+"Sesamite Powder (66x) 66/min 
+   Shiverthorn Extract (8x) 8/min",Crusher MKI,Sesamite Crystal (2x) 2/min,energy.Sierra.T5. Sesamite Powder Extraction
+Sesamite Sand (1x) 1/min,Crusher MKI,"Sesamite Powder (10x) 10/min 
+   Sand (90x) 90/min",terraforming.Sierra.T5. Sesamite Sand Mixing (Rapid)
+Sesamite Seed (1x) 1/min,Assembler MKI,"Kindlevine Seed (2x) 2/min 
+   Shiverthorn Seed (2x) 2/min 
+   Sesamite Powder (20x) 20/min",synthesis.Sierra.T5. Sesamite Farming
+Shiverthorn (1x) 1/min,Planter MKI,Shiverthorn Seed (1x) 1/min,Victor.T1. Shiverthorn Processing
+Shiverthorn Buds (Neutralized) (1x) 1/min,Assembler MKI,"Shiverthorn Buds (4x) 4/min 
+   Kindlevine_Extract (12x) 12/min",synthesis.Victor.T4. Shiverthorn Neutralization
+Shiverthorn Coolant (125x) 125/min,Assembler MKI,"Iron Mechanism (6x) 6/min 
+   Shiverthorn Extract (45x) 45/min 
+   Sesamite Powder (12x) 12/min",science.Sierra.T1. Mass Production (Coolant)
+Shiverthorn Coolant (1x) 1/min,Assembler MKI,"Iron Components (1x) 1/min 
+   Shiverthorn Extract (2x) 2/min 
+   Limestone (6x) 6/min",science.Victor.T1. Shiverthorn Coolant
+"Shiverthorn Extract (1x) 1/min 
+   Plantmatter Brick (1x) 1/min 
+   Shiverthorn Seed (1x) 1/min",Crusher MKI,Shiverthorn (30x) 30/min,science.Sierra.T5. Mass Processing (Shiverthorn)
+"Shiverthorn Extract (1x) 1/min 
+   Plantmatter Brick (1x) 1/min 
+   Shiverthorn Seed (1x) 1/min",Crusher MKI,Shiverthorn (30x) 30/min,science.Sierra.T5. Mass Processing (Shiverthorn)
+Shiverthorn Extract (25x) 25/min,Thresher MKI,Shiverthorn Extract Gel (1x) 1/min,science.Xray.T2. Shiverthorn Gel Threshing
+"Shiverthorn Extract (3x) 15/min 
+   Plantmatter (3x) 15/min",Thresher MKI,Shiverthorn Buds (1x) 5/min,Victor.T1. Shiverthorn Processing
+"Shiverthorn Extract (3x) 15/min 
+   Plantmatter (3x) 15/min",Thresher MKI,Shiverthorn Buds (1x) 5/min,Victor.T1. Shiverthorn Processing
+Shiverthorn Extract Gel (1x) 1/min,Assembler MKI,Shiverthorn Extract (100x) 100/min,science.Xray.T2. Coolant Compression
+"Shiverthorn Extract Gel (1x) 1/min 
+   Gravel (1x) 1/min",Crusher MKI,"Condensed Scrap Ore (1x) 1/min 
+   Gravel (10x) 10/min",synthesis.Sierra.T4. Bio Extraction
+"Shiverthorn Extract Gel (1x) 1/min 
+   Gravel (1x) 1/min",Crusher MKI,"Condensed Scrap Ore (1x) 1/min 
+   Gravel (10x) 10/min",synthesis.Sierra.T4. Bio Extraction
+Shiverthorn Seed (1x) 1/min,Assembler MKI,"Universal Seed Pod (1x) 1/min 
+   Atlantum Powder (21x) 21/min 
+   Shiverthorn Extract (14x) 14/min",science.Victor.T3. Seed Pod Restoration
+"Shiverthorn Seed (1x) 10/min 
+   Shiverthorn Buds (3x) 30/min",Thresher MKI,Shiverthorn (1x) 10/min,Victor.T1. Shiverthorn Processing
+Smelter (1x) 1/min,Assembler MKI,"Limestone (96x) 96/min 
+   Copper Components (15x) 15/min",synthesis.Lima.T2. Smelter
+Smelter MKII (1x) 1/min,Assembler MKI,"Smelter (4x) 4/min 
+   Ceramic Tiles (10x) 10/min 
+   Processor Unit (20x) 20/min",synthesis.Victor.T4. Smelter MKII
+Smelter MKIII (1x) 1/min,Assembler MKI,"Smelter MKII (4x) 4/min 
+   Ceramic Tiles (24x) 24/min 
+   Sensor Block (60x) 60/min",synthesis.Sierra.T2. Smelter MKIII
+Spectral Cube (Colorless) (0.25x) 0.25/min,Assembler MKI,"Carbon Frame (32x) 32/min 
+   Sesamite Ingot (4x) 4/min 
+   Reinforced Iron Frame (16x) 16/min",science.Sierra.T8. Spectral Cube (Colorless)
+Spectral Cube (Colorless)x100 (0.25x) 0.25/min,Assembler MKI,"Spectral Cube (Colorless) (400x) 400/min 
+   Sesamite Ingot (100x) 100/min 
+   Reinforced Copper Frame (32x) 32/min",science.Sierra.T8. Spectral Cube (Colorless) X100
+Stack Filter Inserter (1x) 1/min,Assembler MKI,"Stack Inserter (2x) 2/min 
+   Filter Inserter (4x) 4/min 
+   Advanced Circuit (4x) 4/min",logistics.Xray.T5. Stack Filter Inserter
+Stack Inserter (2x) 2/min,Assembler MKI,"Fast Inserter (8x) 8/min 
+   Electric Motor (4x) 4/min",logistics.Xray.T3. Stack Inserter
+Standard Pickaxe (1x) 1/min,Assembler MKI,Iron Ingot (2x) 2/min,terraforming.Lima.T1. Mining Drill
+Steel Frame (1x) 1/min,Assembler MKI,Steel Ingot (6x) 6/min,synthesis.Xray.T1. Steel Production
+"Steel Frame (1x) 1/min 
+   Copper Ingot (1x) 1/min",Thresher MKII,"File:Catwalk 3x9.png Catwalk 3x9 (10x) 10/min 
+   Gravel (2x) 2/min",Sierra.T7. Calycite Deconstruction
+"Steel Frame (1x) 1/min 
+   Copper Ingot (1x) 1/min",Thresher MKII,"File:Catwalk 3x9.png Catwalk 3x9 (10x) 10/min 
+   Gravel (2x) 2/min",Sierra.T7. Calycite Deconstruction
+Steel Frame (40x) 40/min,Assembler MKI,"Steel Slab (10x) 10/min 
+   Sesamite Gel (2x) 2/min",synthesis.Sierra.T2. Mass Production (Steel Frames)
+Steel Ingot (1x) 1/min,Smelter MKI,Iron Ingot (12x) 12/min,synthesis.Xray.T1. Steel Production
+Steel Ingot (1x) 1/min,Crusher MKI,Steel Slab (1x) 1/min,synthesis.Sierra.T4. Slab Processing (Rapid)
+Steel Ingot (1x) 1/min,Crusher MKI,"Sesamite Ingot (4x) 4/min 
+   Steel Mixture (1x) 1/min",science.Sierra.T6. Sesamite Mutation
+"Steel Ingot (1x) 1/min 
+   Copper Ingot (1x) 1/min",Thresher MKII,"File:Metal Beam 1x1.png Metal Beam 1x1 (5x) 5/min 
+   Gravel (2x) 2/min",Sierra.T7. Calycite Deconstruction
+"Steel Ingot (1x) 1/min 
+   Copper Ingot (1x) 1/min",Thresher MKII,"File:Metal Beam 1x1.png Metal Beam 1x1 (5x) 5/min 
+   Gravel (2x) 2/min",Sierra.T7. Calycite Deconstruction
+"Steel Ingot (1x) 1/min 
+   Iron Slab (1x) 1/min",Thresher MKII,"File:Metal Beam 1x5.png Metal Beam 1x5 (20x) 20/min 
+   Gravel (2x) 2/min",Sierra.T7. Calycite Deconstruction
+"Steel Ingot (1x) 1/min 
+   Iron Slab (1x) 1/min",Thresher MKII,"File:Metal Beam 1x3.png Metal Beam 1x3 (15x) 15/min 
+   Gravel (2x) 2/min",Sierra.T7. Calycite Deconstruction
+"Steel Ingot (1x) 1/min 
+   Iron Slab (1x) 1/min",Thresher MKII,"File:Metal Beam 1x5.png Metal Beam 1x5 (20x) 20/min 
+   Gravel (2x) 2/min",Sierra.T7. Calycite Deconstruction
+"Steel Ingot (1x) 1/min 
+   Iron Slab (1x) 1/min",Thresher MKII,"File:Metal Beam 1x3.png Metal Beam 1x3 (15x) 15/min 
+   Gravel (2x) 2/min",Sierra.T7. Calycite Deconstruction
+Steel Mixture (2x) 2/min,Assembler MKI,"Iron Ore Powder (10x) 10/min 
+   Carbon Powder (10x) 10/min 
+   Kindlevine_Extract (6x) 6/min",synthesis.Xray.T4. Steel Slab
+Steel Slab (1x) 1/min,Assembler MKI,Steel Mixture (2x) 2/min,synthesis.Xray.T4. Steel Slab
+Steel Slab (1x) 1/min,Blast smelter MKI,Steel Ingot (25x) 25/min,synthesis.Xray.T5. Advanced Forging
+T,,,
+The M.O.L.E. (1x) 1/min,Assembler MKI,"Mechanical Components (10x) 10/min 
+   Electrical Components (14x) 14/min 
+   Copper Wire (10x) 10/min",terraforming.Lima.T4. The M.O.L.E.
+Thresher (1x) 0.5/min,Assembler MKI,"Mechanical Components (5x) 2.5/min 
+   Copper Frame (5x) 2.5/min 
+   Iron Components (5x) 2.5/min",synthesis.Lima.T4. Thresher
+Thresher MKII (1x) 1/min,Assembler MKI,"Thresher (4x) 4/min 
+   Relay Circuit (2x) 2/min 
+   Electric Motor (2x) 2/min",synthesis.Victor.T5. Thresher MKII
+U,,,
+Universal Seed Pod (1x) 0.25/min,Assembler MKII,"Sesamite Seed (32x) 8.0/min 
+   Sesamite Stems (2x) 0.5/min 
+   Carbon Powder Brick (2x) 0.5/min",Sierra.T5. Seed Reversal (Sesamite)
+Universal Seed Pod (1x) 1/min,Assembler MKI,"Shiverthorn Seed (32x) 32/min 
+   Shiverthorn Buds (Neutralized) (14x) 14/min 
+   Carbon Powder Brick (2x) 2/min",science.Xray.T1. Seed Mutation
+Universal Seed Pod (1x) 1/min,Assembler MKI,"Kindlevine Seed (32x) 32/min 
+   Kindlevine Stems (Washed) (14x) 14/min 
+   Carbon Powder Brick (2x) 2/min",science.Xray.T1. Seed Mutation
+Unstable Seed Pod (1x) 1/min,Assembler MKI,"Universal Seed Pod (4x) 4/min 
+   Sesamite Powder (100x) 100/min",science.Sierra.T2. Seed Multiplication
+W,,,
+Water Wheel (1x) 1/min,Assembler MKI,"Iron Frame (8x) 8/min 
+   Mechanical Components (32x) 32/min 
+   Shiverthorn Extract (2x) 2/min",energy.Victor.T2. Water Wheel
+Wire Spindle (1x) 0.375/min,Assembler MKI,Copper Wire (100x) 37.5/min,Xray.T2. Basic Mechanisms
+Wire Spindle (3x) 9/min,Assembler MKI,Copper Slab (2x) 6/min,science.Xray.T3. Basic Optimization
